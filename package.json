@@ -1,0 +1,17 @@
+{
+  "name": "blockstack-thief",
+  "version": "1.0.0",
+  "description": "A simple command-line utility to interact with Gaia buckets using app private keys.",
+  "main": "index.js",
+  "dependencies": {
+    "blockstack": "^19.3.0",
+    "vorpal": "^1.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marvin Janssen",
+  "license": "MIT"
+}
